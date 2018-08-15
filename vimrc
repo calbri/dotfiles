@@ -1,0 +1,17 @@
+set nocompatible
+execute pathogen#infect() 
+set nowrap
+set tabstop=4
+set backspace=indent,eol,start
+set autoindent
+set copyindent
+set number 
+set shiftwidth=4
+set showmatch
+set ignorecase
+set smartcase
+set smarttab
+set visualbell
+set noerrorbells
+syntax on
+colorscheme delek
